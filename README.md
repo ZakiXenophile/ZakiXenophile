@@ -22,6 +22,7 @@ Sometimes known as @ZakiXenophile, I am a second-year computer science student w
 
 ## Also familiar with
 -The university has proven to be useful for subtly familiarizing oneself with various other technologies.
+
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
