@@ -33,7 +33,7 @@ Sometimes known as @ZakiXenophile, I am a second-year computer science student w
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakiXenophile&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!---
 ZakiXenophile/ZakiXenophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
