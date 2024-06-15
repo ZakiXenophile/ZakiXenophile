@@ -9,13 +9,13 @@ Sometimes known as @ZakiXenophile, I'm a second-year computer science student wi
 - 🛠️ **Database Management**: Learning about designing and optimizing SQL databases.
 - 📊 **Data Analysis**: Using Python to explore data and visualize patterns.
 
-## Tech Stack
-![Android](https://img.shields.io/badge/Android-Aprendiendo-green?logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-Experto-blue?logo=kotlin)
-![Python](https://img.shields.io/badge/Python-Familiarizado-yellow?logo=python)
-![SQL](https://img.shields.io/badge/SQL-Intermedio-red?logo=postgresql&logoColor=white)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakiXenophile&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tech Stack
+![Android](https://img.shields.io/badge/Android-green?logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-blue?logo=kotlin)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![SQL](https://img.shields.io/badge/SQL-red?logo=postgresql&logoColor=white)
 <!---
 ZakiXenophile/ZakiXenophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
