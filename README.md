@@ -1,6 +1,4 @@
-👋 Hi, I'm [Your Name]
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+👋 Hi, I'm AA.Pérez Lorenzo
 
 ## About Me
 Greetings! I'm AA.Pérez Lorenzo, currently a second-year computer science student with a deep passion for technology, particularly in the realms of Android app development and backend systems. My journey has been driven by a keen interest in Kotlin for server-side applications. I also find great satisfaction in leveraging Python for backend scripting and data analysis tasks, alongside managing data with SQL databases, notably PostgreSQL.
@@ -11,7 +9,7 @@ Greetings! I'm AA.Pérez Lorenzo, currently a second-year computer science stude
 - 🛠️ **Database Management**: Learning about designing and optimizing SQL databases.
 - 📊 **Data Analysis**: Using Python to explore data and visualize patterns.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakiXenophile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ZakiXenophile/ZakiXenophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
