@@ -9,7 +9,7 @@ Sometimes known as @ZakiXenophile, I'm a second-year computer science student wi
 - 🛠️ **Database Management**: Learning about designing and optimizing SQL databases.
 - 📊 **Data Analysis**: Using Python to explore data and visualize patterns.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakiXenophile&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakiXenophile&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 ZakiXenophile/ZakiXenophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
