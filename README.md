@@ -5,8 +5,8 @@ Sometimes known as @ZakiXenophile, I am a second-year computer science student w
 
 ## Primary Interests
 I have a strong interest in Android and Linux operating systems. Android's open-source nature and its ability to run on diverse devices intrigue me, driving my exploration of its architecture and development of innovative applications. Similarly, Linux's flexibility and robustness in various computing environments captivate me, inspiring my journey to understand its kernel-level operations and command-line capabilities.
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) :
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+- [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakiXenophile&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
