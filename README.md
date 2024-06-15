@@ -8,22 +8,24 @@ Sometimes known as @ZakiXenophile, I am a second-year computer science student w
 
 -I am deeply interested in Kotlin, a modern programming language that excels in both Android app development and backend systems. Kotlin's concise syntax, null safety features, and seamless interoperability with Java make it a powerful choice for building robust applications across different platforms.
 
+-I am passionate about Python, using it extensively for backend development and data science. Python's simplicity and rich ecosystem of libraries like NumPy, Matplotlib, and Pandas empower me to analyze data effectively.
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakiXenophile&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-## Tech Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://ktor.io/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakiXenophile&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 
 <!---
 ZakiXenophile/ZakiXenophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
