@@ -11,7 +11,7 @@ Greetings! I'm AA.Pérez Lorenzo, currently a second-year computer science stude
 - 🛠️ **Database Management**: Learning about designing and optimizing SQL databases.
 - 📊 **Data Analysis**: Using Python to explore data and visualize patterns.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ZakiXenophile/ZakiXenophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
