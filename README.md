@@ -3,17 +3,14 @@
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
 ## About Me
-I'm a dedicated student with a passion for mobile development and data analysis. Currently, I'm focused on expanding my knowledge and skills in these areas through various projects and coursework.
+Greetings! I'm AA.Pérez Lorenzo, currently a second-year computer science student with a deep passion for technology, particularly in the realms of Android app development and backend systems. My journey has been driven by a keen interest in Kotlin for server-side applications. I also find great satisfaction in leveraging Python for backend scripting and data analysis tasks, alongside managing data with SQL databases, notably PostgreSQL.
 
 ## Interests
-- **Mobile Development**: I enjoy creating efficient and user-friendly mobile applications using technologies such as Kotlin and Flutter.
-- **Data Analysis**: I'm fascinated by the power of data and love working with Python and its libraries like Pandas and NumPy to uncover insights and trends.
+💻 Android Development: I enjoy working with Kotlin to create intuitive mobile applications.
+🌐 Backend Development: Exploring Kotlin and Python to build scalable backend solutions.
+🛠️ Database Management: Learning about designing and optimizing SQL databases.
+📊 Data Analysis: Using Python to explore data and visualize patterns.
 
-## Technologies
-- **Languages**: Kotlin, Python, Java
-- **Mobile Development**: Android (Kotlin), Flutter
-- **Data Analysis**: Pandas, NumPy, Matplotlib
-- **Tools**: Git, Docker
 
 <!---
 ZakiXenophile/ZakiXenophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
