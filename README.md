@@ -4,17 +4,13 @@
 Sometimes known as @ZakiXenophile, I am a second-year computer science student with a deep passion for technology. 
 
 ## Primary Interests
--I have a strong interest in Android and Linux operating systems. Android's open-source nature and its ability to run on diverse devices intrigue me, driving my exploration of its architecture and development of innovative applications. Similarly, Linux's flexibility and robustness in various computing environments captivate me, inspiring my journey to understand its kernel-level operations and command-line capabilities.
+-I have a strong interest in Linux operating systems. Linux's open-source nature and its ability to run on diverse devices intrigue me, driving my exploration of its architecture and development of innovative applications also its flexibility and robustness in various computing environments captivate me, inspiring my journey to understand its kernel-level operations and command-line capabilities.
 
--I am deeply interested in Kotlin, a modern programming language that excels in both Android app development and backend systems. Kotlin's concise syntax, null safety features, and seamless interoperability with Java make it a powerful choice for building robust applications across different platforms.
+-I am deeply passionate about Python, leveraging its versatility for both backend development and data science projects. Python's elegant syntax and extensive ecosystem of libraries, such as NumPy for numerical computations, Matplotlib for data visualization, and Pandas for data manipulation, empower me to extract meaningful insights from complex datasets. Whether I'm building robust web applications using frameworks like Django and Flask or performing sophisticated data analysis. This combination of backend development and data science fuels my enthusiasm for creating impactful, data-driven solutions.
 
--I am passionate about Python, using it for backend development and data science. Python's simplicity and rich ecosystem of libraries like NumPy, Matplotlib, and Pandas empower me to analyze data effectively.
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://ktor.io/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
@@ -28,7 +24,6 @@ Sometimes known as @ZakiXenophile, I am a second-year computer science student w
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 
